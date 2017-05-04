@@ -1,0 +1,27 @@
+@-webkit-keyframes loading {
+  0%  {opacity:1}
+  33% {opacity:0.66}
+  66% {opacity:0.33}
+  100%{opacity:0.2}
+}
+
+@-moz-keyframes loading {
+  0%  {opacity:1}
+  33% {opacity:0.66}
+  66% {opacity:0.33}
+  100%{opacity:0.2}
+}
+
+@-ms-keyframes loading {
+  0%  {opacity:1}
+  33% {opacity:0.66}
+  66% {opacity:0.33}
+  100%{opacity:0.2}
+}
+
+@keyframes loading {
+  0%  {opacity:1}
+  33% {opacity:0.66}
+  66% {opacity:0.33}
+  100%{opacity:0.2}
+}
